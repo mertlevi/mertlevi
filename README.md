@@ -46,16 +46,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=mertlevi&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mertlevi&layout=compact&theme=tokyonight"/>
-
-</p>
-
 ---
 
 ## 🔥 Contribution Streak
@@ -67,14 +57,6 @@
 </p>
 
 ---
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=mertlevi&theme=tokyonight&row=1&column=6"/>
-
-</p>
 
 ---
 
