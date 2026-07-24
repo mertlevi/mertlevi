@@ -1,4 +1,11 @@
 ## Hi there 👋
+- 🔭 I’m currently working on athletics
+- 🌱 I’m currently learning GitHub and coding
+- 🤔 I’m looking for help with using AI and improving myself
+- 💬 Ask me about anything i will try to help
+- 📫 How to reach me: mertlevi01@gmail.com--@mertlevi_
+- 😄 Pronouns:He-him
+- ⚡ Fun fact:I love learning new things and i can jump very high
 
 <!--
 **mertlevi/mertlevi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
