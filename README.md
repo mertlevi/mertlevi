@@ -1,23 +1,25 @@
-## Hi there 👋
-- 🔭 I’m currently working on athletics
-- 🌱 I’m currently learning GitHub and coding
-- 🤔 I’m looking for help with using AI and improving myself
-- 💬 Ask me about anything i will try to help
+# 👋 Hi, I'm Mert
+
+🏃 Athlete | Long Jump
+💻 Learning Software Development
+🇹🇷 Fenerbahçe Athletics
+
+## About Me
+- 🎯 Long Jump Athlete
+- ⚡ 100m: 11.25
+- 📏 Height: 183 cm
+- 🌍 Türkiye-Spain
 - 📫 How to reach me: mertlevi01@gmail.com--@mertlevi_
-- 😄 Pronouns:He-him
-- ⚡ Fun fact:I love learning new things and i can jump very high
 
-<!--
-**mertlevi/mertlevi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Personal Bests
+🏅 Long Jump: 6.99 m
+⚡ 100m: 11.25
 
-Here are some ideas to get you started:
+## Goals
+- 🥇 7.50m+
+- 🚀 Improve programming skills
+- 🌍 International competitions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies I'm Learning
+HTML • CSS • JavaScript • Python
+
