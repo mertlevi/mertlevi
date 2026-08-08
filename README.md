@@ -32,7 +32,7 @@
 
 📏 **Height:** 183 cm
 
-🎯 **Goal:** 7.50+ m
+🎯 **Goal:** Be a Olympic Athlete
 
 ---
 
